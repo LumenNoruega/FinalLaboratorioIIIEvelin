@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3d81a8f1-d58b-4c63-b6ff-fd2b9dd2869e" name="Changes" comment="Final de Laboratorio III - Evelin Paumgertner" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$/tup2024" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_COMMON_BRANCH" value="master" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/tup2024" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2jjwb40Y9hpxLE0fpHTU6qqzTup" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "A:/Escritorio/EVELIN PAUMGERTNER - FINAL LABORATORIO III"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ar.edu.utn.frbb.tup.Application" />
+      <module name="tup2024" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ar.edu.utn.frbb.tup.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClienteServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tup2024" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ar.edu.utn.frbb.tup.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ar.edu.utn.frbb.tup.service" />
+      <option name="MAIN_CLASS_NAME" value="ar.edu.utn.frbb.tup.service.ClienteServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CuentaServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tup2024" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ar.edu.utn.frbb.tup.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ar.edu.utn.frbb.tup.service" />
+      <option name="MAIN_CLASS_NAME" value="ar.edu.utn.frbb.tup.service.CuentaServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrestamoControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tup2024" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ar.edu.utn.frbb.tup.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ar.edu.utn.frbb.tup.controller" />
+      <option name="MAIN_CLASS_NAME" value="ar.edu.utn.frbb.tup.controller.PrestamoControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrestamoServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tup2024" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ar.edu.utn.frbb.tup.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ar.edu.utn.frbb.tup.service" />
+      <option name="MAIN_CLASS_NAME" value="ar.edu.utn.frbb.tup.service.PrestamoServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PrestamoServiceTest" />
+        <item itemvalue="JUnit.PrestamoControllerTest" />
+        <item itemvalue="JUnit.CuentaServiceTest" />
+        <item itemvalue="JUnit.ClienteServiceTest" />
+        <item itemvalue="Application.Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d81a8f1-d58b-4c63-b6ff-fd2b9dd2869e" name="Changes" comment="" />
+      <created>1721913862245</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721913862245</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Final de Laboratorio III - Evelin Paumgertner">
+      <option name="closed" value="true" />
+      <created>1722128239286</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1722128239286</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Final de Laboratorio III - Evelin Paumgertner">
+      <option name="closed" value="true" />
+      <created>1722259549203</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1722259549203</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Final de Laboratorio III - Evelin Paumgertner">
+      <option name="closed" value="true" />
+      <created>1722270176565</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1722270176565</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Final de Laboratorio III - Evelin Paumgertner" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final de Laboratorio III - Evelin Paumgertner" />
+  </component>
+</project>
